@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://dumps.tadiphone.dev/dumps/nubia/nx666j.git -b fox_12.1"
+export DT_LINK="https://github.com/piashmsubd/android_device_nubia_NX669J.git -b fox_12.1"
 
 export DEVICE="nx669j"
 export OEM="nubia"
